@@ -1,0 +1,22 @@
+.marvel-card{
+    width: 40%;
+}
+
+.marvel-name{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.marvel-universe{
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.marvel-energy{
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.marvel-detail{
+    margin-top: 15px;
+}
